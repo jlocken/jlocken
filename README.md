@@ -72,7 +72,7 @@ I'm a passinate full-stack developer and Data Analyst,currently working for Powe
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> 
    </a> 
   
- ### Mobile App Development
+ #### Mobile App Development
    <a href="https://developer.android.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
