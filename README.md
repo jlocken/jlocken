@@ -1,6 +1,6 @@
 # James Locken
 
-I'm a passinate full-stack developer and Data Analyst,currently working for PowerGen Renewable Energy Ltd.
+I'm a passinate Full-stack Developer and Data Analyst,currently working for PowerGen Renewable Energy Ltd.
 
 - 🌱 I’m currently learning **Machine Learning**
 
@@ -17,8 +17,7 @@ I'm a passinate full-stack developer and Data Analyst,currently working for Powe
 <a href="https://kaggle.com/https://www.kaggle.com/jameslocken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/jameslocken" height="30" width="40" /></a>
 </p>
 
-##  Skills
-<h3 align="left">Languages and Tools:</h3>
+##  Languages and Tools
 <p align="left"> 
  
  #### Programming Languages
